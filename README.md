@@ -18,3 +18,8 @@ This tutorial is based on the video from freecodecamp.org\
 - Grid style to display movie thumbnails
 - Rendered Spinner
 - Implemented search bar
+
+### 2022-01-29
+- Used and learned react router
+- Rendered buttons and learned its mechanism
+- Applied few styles
