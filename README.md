@@ -4,6 +4,11 @@ This tutorial is based on the video from freecodecamp.org\
 
 # Log
 
+### 2022-02-01
+- Studied the values of 'inline' and 'block' which are values for 'display' attribute
+- Showed the actor images into respective movies.
+- Used proptypes and learned how it works
+
 ### 2022-01-31
 - Built another custom hook for fetching movie data
 - Styled movie info page
