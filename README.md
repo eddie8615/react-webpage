@@ -4,6 +4,12 @@ This tutorial is based on the video from freecodecamp.org\
 
 # Log
 
+### 2022-02-03
+- Looked the difference between local and session storage.
+- Managed the number of calling API and reduced it by using sessionStorage.
+- Deployed the webpage through netlify 
+- [Visit here](https://dreamy-mcclintock-b1c1c6.netlify.app/)
+
 ### 2022-02-01
 - Studied the values of 'inline' and 'block' which are values for 'display' attribute
 - Showed the actor images into respective movies.

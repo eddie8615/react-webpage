@@ -13,3 +13,11 @@ export const convertMoney = money => {
   });
   return formatter.format(money);
 };
+
+export const isPersistedState = stateName => {
+  // If you want to use local storage, just localStorage.getItem
+
+  const sessionState = sessionStorage.getItem(stateName);
+
+  return sessionState && JSON.parse(sessionState);
+}
